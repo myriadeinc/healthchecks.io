@@ -1,0 +1,19 @@
+{
+  "name": "healthchecks.io",
+  "version": "1.0.0",
+  "description": "Quick and dirty healthcheck tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github-RifatHanano:myriadeinc/healthchecks.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
